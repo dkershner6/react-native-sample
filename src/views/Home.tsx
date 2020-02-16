@@ -9,8 +9,9 @@ export const Home = () => {
             <Card elevation={8} style={styles.surface}>
                 <Card.Cover
                     source={{
-                        uri: 'https://dkershner.com/static/01c1a0191e0604751d1e3d29b7148743/bba24/classic-car-1209334_1280.jpg',
+                        uri: 'https://dkershner.com/img/classic-car-1209334_1280.jpg',
                     }}
+                    style={{ width: '100%' }}
                 />
                 <Card.Content>
                     <Title>Sample React Native App</Title>
