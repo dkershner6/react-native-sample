@@ -3,11 +3,11 @@
   "dir": "auto",
   "display": "standalone",
   "lang": "en",
-  "name": "Derek's Testing App1",
+  "name": "Derek's Testing App",
   "orientation": "portrait",
   "prefer_related_applications": true,
   "related_applications": [],
-  "short_name": "Derek's Testing App1",
+  "short_name": "Derek's Testing App",
   "start_url": ".",
   "icons": [
     {

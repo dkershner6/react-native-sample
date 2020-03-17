@@ -4,8 +4,8 @@
     "app.js.map": "/static/js/app.485c639a.chunk.js.map",
     "runtime~app.js": "/static/js/runtime~app.86c3a96a.js",
     "runtime~app.js.map": "/static/js/runtime~app.86c3a96a.js.map",
-    "static/js/2.aad30d0d.chunk.js": "/static/js/2.aad30d0d.chunk.js",
-    "static/js/2.aad30d0d.chunk.js.map": "/static/js/2.aad30d0d.chunk.js.map",
+    "static/js/2.1da801cf.chunk.js": "/static/js/2.1da801cf.chunk.js",
+    "static/js/2.1da801cf.chunk.js.map": "/static/js/2.1da801cf.chunk.js.map",
     "fonts/MaterialCommunityIcons.ttf": "/./fonts/MaterialCommunityIcons.ttf",
     "apple/icons/icon_180x180.png": "/apple/icons/icon_180x180.png",
     "apple/icons/icon_192x192.png": "/apple/icons/icon_192x192.png",
@@ -25,12 +25,12 @@
     "favicon.ico": "/favicon.ico",
     "index.html": "/index.html",
     "manifest.json": "/manifest.json",
-    "precache-manifest.b87e4b96aaf3f888ef11f5c9b9885991.js": "/precache-manifest.b87e4b96aaf3f888ef11f5c9b9885991.js",
+    "precache-manifest.ff2203077473f8a482ffebc1c0bab9f4.js": "/precache-manifest.ff2203077473f8a482ffebc1c0bab9f4.js",
     "serve.json": "/serve.json"
   },
   "entrypoints": [
     "static/js/runtime~app.86c3a96a.js",
-    "static/js/2.aad30d0d.chunk.js",
+    "static/js/2.1da801cf.chunk.js",
     "static/js/app.485c639a.chunk.js"
   ]
 }
